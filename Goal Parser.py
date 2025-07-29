@@ -44,4 +44,3 @@ Approach:
  Space Complexity: O(n) — to store the resulting string
 """
 
-        return result
